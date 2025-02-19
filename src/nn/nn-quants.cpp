@@ -1,3 +1,4 @@
+#include <immintrin.h>
 #include "nn-quants.hpp"
 #include <cassert>
 #include <cstring>
